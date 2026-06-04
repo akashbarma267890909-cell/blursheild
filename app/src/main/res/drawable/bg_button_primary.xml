@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Pressed state — slightly darker blue -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#1580CC" />
+            <corners android:radius="12dp" />
+        </shape>
+    </item>
+
+    <!-- Focused state -->
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#1580CC" />
+            <corners android:radius="12dp" />
+        </shape>
+    </item>
+
+    <!-- Default state — primary blue -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#1D9BF0" />
+            <corners android:radius="12dp" />
+        </shape>
+    </item>
+
+</selector>

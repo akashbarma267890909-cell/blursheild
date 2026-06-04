@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlurShield</string>
+    <string name="start_protection">START PROTECTION</string>
+    <string name="stop_protection">STOP PROTECTION</string>
+    <string name="status_active">PROTECTION ACTIVE</string>
+    <string name="status_inactive">PROTECTION INACTIVE</string>
+    <string name="permission_title">Permission Required</string>
+    <string name="notification_channel_name">BlurShield Protection</string>
+    <string name="notification_title">BlurShield Active</string>
+    <string name="notification_text">Privacy overlay is running. Tap bubble to toggle blur.</string>
+</resources>

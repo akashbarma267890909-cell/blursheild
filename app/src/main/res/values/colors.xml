@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core background palette -->
+    <color name="background">#0A0A0F</color>
+    <color name="surface">#111118</color>
+    <color name="border">#1E1E2E</color>
+
+    <!-- Accent / brand -->
+    <color name="primary_blue">#1D9BF0</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F0F0F8</color>
+    <color name="text_muted">#6B6B8A</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Semantic -->
+    <color name="success">#00E676</color>
+    <color name="error">#FF4569</color>
+
+    <!-- Bubble color options -->
+    <color name="bubble_blue">#1D9BF0</color>
+    <color name="bubble_red">#FF4569</color>
+    <color name="bubble_green">#00E676</color>
+    <color name="bubble_black">#1A1A2E</color>
+</resources>
